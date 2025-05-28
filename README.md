@@ -23,7 +23,7 @@ Modular architecture for future scalability
 ![diagram](https://github.com/user-attachments/assets/d9b60762-19a6-4cff-b410-09fc0c9fdf60)
 
 ### Real-Time Gesture Controlled Prosthetic Arm Demo
-(https://github.com/user-attachments/assets/a8359c93-9fed-407f-9bbf-a20a6846da73)
+https://github.com/user-attachments/assets/a8359c93-9fed-407f-9bbf-a20a6846da73
 
 ### Real-Implementation
 ![working with myolectric sensor](https://github.com/user-attachments/assets/6f8c9521-3c86-431f-9f4a-b873a19e47e0)
